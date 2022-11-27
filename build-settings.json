@@ -1,0 +1,17 @@
+{
+    "development_url": "evenio.twentyfour.dev",
+    "project_name": "project-name",
+    "project_type": "wordpress-theme",
+    "theme_name": "project-name",
+    "version": "1.0",
+    "root_dir_file_extensions": ["html", "htm", "php", "png", "ico", "css"],
+    "project_directories": ["template-parts", "inc", "fonts", "img", "languages", "js/plugins", "sass", "woocommerce"],
+    "bisynced_directories": ["exports"],
+    "dist": "../dist",
+    "authors": [
+        {
+            "name": "TwentyFour Dev",
+            "email": "olla@html24.net"
+        }
+    ]
+}
